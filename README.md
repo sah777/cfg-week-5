@@ -1,6 +1,6 @@
 # Code First Girls: Week 5 (Using Bootstrap)
 
-This is an example of how we structure our website, as well as import and use bootstrap.
+This is an example of how we can structure our website, as well as how we import and use bootstrap.
 
 ## Getting Started
 
@@ -23,6 +23,6 @@ This project contains the following:
 
 ## About Bootstrap
 
-More information on Bootstrap 3.3.37 can be found here:
+More information on Bootstrap 3.3.7 can be found here:
 
 * https://getbootstrap.com/docs/3.3/
